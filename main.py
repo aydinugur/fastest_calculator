@@ -30607,7 +30607,7 @@ def generate_results():
     results["100-99"] = 1
     results["100-100"] = 0
 
-    results["0/0"] = 💥
+    results["0/0"] = "💥"
     results["0/1"] = 0.0
     results["0/2"] = 0.0
     results["0/3"] = 0.0
@@ -30708,7 +30708,7 @@ def generate_results():
     results["0/98"] = 0.0
     results["0/99"] = 0.0
     results["0/100"] = 0.0
-    results["1/0"] = 💥
+    results["1/0"] = "💥"
     results["1/1"] = 1.0
     results["1/2"] = 0.5
     results["1/3"] = 0.3333333333333333
@@ -30809,7 +30809,7 @@ def generate_results():
     results["1/98"] = 0.01020408163265306
     results["1/99"] = 0.010101010101010102
     results["1/100"] = 0.01
-    results["2/0"] = 💥
+    results["2/0"] = "💥"
     results["2/1"] = 2.0
     results["2/2"] = 1.0
     results["2/3"] = 0.6666666666666666
@@ -30910,7 +30910,7 @@ def generate_results():
     results["2/98"] = 0.02040816326530612
     results["2/99"] = 0.020202020202020204
     results["2/100"] = 0.02
-    results["3/0"] = 💥
+    results["3/0"] = "💥"
     results["3/1"] = 3.0
     results["3/2"] = 1.5
     results["3/3"] = 1.0
@@ -31011,7 +31011,7 @@ def generate_results():
     results["3/98"] = 0.030612244897959183
     results["3/99"] = 0.030303030303030304
     results["3/100"] = 0.03
-    results["4/0"] = 💥
+    results["4/0"] = "💥"
     results["4/1"] = 4.0
     results["4/2"] = 2.0
     results["4/3"] = 1.3333333333333333
@@ -31112,7 +31112,7 @@ def generate_results():
     results["4/98"] = 0.04081632653061224
     results["4/99"] = 0.04040404040404041
     results["4/100"] = 0.04
-    results["5/0"] = 💥
+    results["5/0"] = "💥"
     results["5/1"] = 5.0
     results["5/2"] = 2.5
     results["5/3"] = 1.6666666666666667
@@ -31213,7 +31213,7 @@ def generate_results():
     results["5/98"] = 0.05102040816326531
     results["5/99"] = 0.050505050505050504
     results["5/100"] = 0.05
-    results["6/0"] = 💥
+    results["6/0"] = "💥"
     results["6/1"] = 6.0
     results["6/2"] = 3.0
     results["6/3"] = 2.0
@@ -31314,7 +31314,7 @@ def generate_results():
     results["6/98"] = 0.061224489795918366
     results["6/99"] = 0.06060606060606061
     results["6/100"] = 0.06
-    results["7/0"] = 💥
+    results["7/0"] = "💥"
     results["7/1"] = 7.0
     results["7/2"] = 3.5
     results["7/3"] = 2.3333333333333335
@@ -31415,7 +31415,7 @@ def generate_results():
     results["7/98"] = 0.07142857142857142
     results["7/99"] = 0.0707070707070707
     results["7/100"] = 0.07
-    results["8/0"] = 💥
+    results["8/0"] = "💥"
     results["8/1"] = 8.0
     results["8/2"] = 4.0
     results["8/3"] = 2.6666666666666665
@@ -31516,7 +31516,7 @@ def generate_results():
     results["8/98"] = 0.08163265306122448
     results["8/99"] = 0.08080808080808081
     results["8/100"] = 0.08
-    results["9/0"] = 💥
+    results["9/0"] = "💥"
     results["9/1"] = 9.0
     results["9/2"] = 4.5
     results["9/3"] = 3.0
@@ -31617,7 +31617,7 @@ def generate_results():
     results["9/98"] = 0.09183673469387756
     results["9/99"] = 0.09090909090909091
     results["9/100"] = 0.09
-    results["10/0"] = 💥
+    results["10/0"] = "💥"
     results["10/1"] = 10.0
     results["10/2"] = 5.0
     results["10/3"] = 3.3333333333333335
@@ -31718,7 +31718,7 @@ def generate_results():
     results["10/98"] = 0.10204081632653061
     results["10/99"] = 0.10101010101010101
     results["10/100"] = 0.1
-    results["11/0"] = 💥
+    results["11/0"] = "💥"
     results["11/1"] = 11.0
     results["11/2"] = 5.5
     results["11/3"] = 3.6666666666666665
@@ -31819,7 +31819,7 @@ def generate_results():
     results["11/98"] = 0.11224489795918367
     results["11/99"] = 0.1111111111111111
     results["11/100"] = 0.11
-    results["12/0"] = 💥
+    results["12/0"] = "💥"
     results["12/1"] = 12.0
     results["12/2"] = 6.0
     results["12/3"] = 4.0
@@ -31920,7 +31920,7 @@ def generate_results():
     results["12/98"] = 0.12244897959183673
     results["12/99"] = 0.12121212121212122
     results["12/100"] = 0.12
-    results["13/0"] = 💥
+    results["13/0"] = "💥"
     results["13/1"] = 13.0
     results["13/2"] = 6.5
     results["13/3"] = 4.333333333333333
@@ -32021,7 +32021,7 @@ def generate_results():
     results["13/98"] = 0.1326530612244898
     results["13/99"] = 0.13131313131313133
     results["13/100"] = 0.13
-    results["14/0"] = 💥
+    results["14/0"] = "💥"
     results["14/1"] = 14.0
     results["14/2"] = 7.0
     results["14/3"] = 4.666666666666667
@@ -32122,7 +32122,7 @@ def generate_results():
     results["14/98"] = 0.14285714285714285
     results["14/99"] = 0.1414141414141414
     results["14/100"] = 0.14
-    results["15/0"] = 💥
+    results["15/0"] = "💥"
     results["15/1"] = 15.0
     results["15/2"] = 7.5
     results["15/3"] = 5.0
@@ -32223,7 +32223,7 @@ def generate_results():
     results["15/98"] = 0.15306122448979592
     results["15/99"] = 0.15151515151515152
     results["15/100"] = 0.15
-    results["16/0"] = 💥
+    results["16/0"] = "💥"
     results["16/1"] = 16.0
     results["16/2"] = 8.0
     results["16/3"] = 5.333333333333333
@@ -32324,7 +32324,7 @@ def generate_results():
     results["16/98"] = 0.16326530612244897
     results["16/99"] = 0.16161616161616163
     results["16/100"] = 0.16
-    results["17/0"] = 💥
+    results["17/0"] = "💥"
     results["17/1"] = 17.0
     results["17/2"] = 8.5
     results["17/3"] = 5.666666666666667
@@ -32425,7 +32425,7 @@ def generate_results():
     results["17/98"] = 0.17346938775510204
     results["17/99"] = 0.1717171717171717
     results["17/100"] = 0.17
-    results["18/0"] = 💥
+    results["18/0"] = "💥"
     results["18/1"] = 18.0
     results["18/2"] = 9.0
     results["18/3"] = 6.0
@@ -32526,7 +32526,7 @@ def generate_results():
     results["18/98"] = 0.1836734693877551
     results["18/99"] = 0.18181818181818182
     results["18/100"] = 0.18
-    results["19/0"] = 💥
+    results["19/0"] = "💥"
     results["19/1"] = 19.0
     results["19/2"] = 9.5
     results["19/3"] = 6.333333333333333
@@ -32627,7 +32627,7 @@ def generate_results():
     results["19/98"] = 0.19387755102040816
     results["19/99"] = 0.1919191919191919
     results["19/100"] = 0.19
-    results["20/0"] = 💥
+    results["20/0"] = "💥"
     results["20/1"] = 20.0
     results["20/2"] = 10.0
     results["20/3"] = 6.666666666666667
@@ -32728,7 +32728,7 @@ def generate_results():
     results["20/98"] = 0.20408163265306123
     results["20/99"] = 0.20202020202020202
     results["20/100"] = 0.2
-    results["21/0"] = 💥
+    results["21/0"] = "💥"
     results["21/1"] = 21.0
     results["21/2"] = 10.5
     results["21/3"] = 7.0
@@ -32829,7 +32829,7 @@ def generate_results():
     results["21/98"] = 0.21428571428571427
     results["21/99"] = 0.21212121212121213
     results["21/100"] = 0.21
-    results["22/0"] = 💥
+    results["22/0"] = "💥"
     results["22/1"] = 22.0
     results["22/2"] = 11.0
     results["22/3"] = 7.333333333333333
@@ -32930,7 +32930,7 @@ def generate_results():
     results["22/98"] = 0.22448979591836735
     results["22/99"] = 0.2222222222222222
     results["22/100"] = 0.22
-    results["23/0"] = 💥
+    results["23/0"] = "💥"
     results["23/1"] = 23.0
     results["23/2"] = 11.5
     results["23/3"] = 7.666666666666667
@@ -33031,7 +33031,7 @@ def generate_results():
     results["23/98"] = 0.23469387755102042
     results["23/99"] = 0.23232323232323232
     results["23/100"] = 0.23
-    results["24/0"] = 💥
+    results["24/0"] = "💥"
     results["24/1"] = 24.0
     results["24/2"] = 12.0
     results["24/3"] = 8.0
@@ -33132,7 +33132,7 @@ def generate_results():
     results["24/98"] = 0.24489795918367346
     results["24/99"] = 0.24242424242424243
     results["24/100"] = 0.24
-    results["25/0"] = 💥
+    results["25/0"] = "💥"
     results["25/1"] = 25.0
     results["25/2"] = 12.5
     results["25/3"] = 8.333333333333334
@@ -33233,7 +33233,7 @@ def generate_results():
     results["25/98"] = 0.25510204081632654
     results["25/99"] = 0.25252525252525254
     results["25/100"] = 0.25
-    results["26/0"] = 💥
+    results["26/0"] = "💥"
     results["26/1"] = 26.0
     results["26/2"] = 13.0
     results["26/3"] = 8.666666666666666
@@ -33334,7 +33334,7 @@ def generate_results():
     results["26/98"] = 0.2653061224489796
     results["26/99"] = 0.26262626262626265
     results["26/100"] = 0.26
-    results["27/0"] = 💥
+    results["27/0"] = "💥"
     results["27/1"] = 27.0
     results["27/2"] = 13.5
     results["27/3"] = 9.0
@@ -33435,7 +33435,7 @@ def generate_results():
     results["27/98"] = 0.2755102040816326
     results["27/99"] = 0.2727272727272727
     results["27/100"] = 0.27
-    results["28/0"] = 💥
+    results["28/0"] = "💥"
     results["28/1"] = 28.0
     results["28/2"] = 14.0
     results["28/3"] = 9.333333333333334
@@ -33536,7 +33536,7 @@ def generate_results():
     results["28/98"] = 0.2857142857142857
     results["28/99"] = 0.2828282828282828
     results["28/100"] = 0.28
-    results["29/0"] = 💥
+    results["29/0"] = "💥"
     results["29/1"] = 29.0
     results["29/2"] = 14.5
     results["29/3"] = 9.666666666666666
@@ -33637,7 +33637,7 @@ def generate_results():
     results["29/98"] = 0.29591836734693877
     results["29/99"] = 0.29292929292929293
     results["29/100"] = 0.29
-    results["30/0"] = 💥
+    results["30/0"] = "💥"
     results["30/1"] = 30.0
     results["30/2"] = 15.0
     results["30/3"] = 10.0
@@ -33738,7 +33738,7 @@ def generate_results():
     results["30/98"] = 0.30612244897959184
     results["30/99"] = 0.30303030303030304
     results["30/100"] = 0.3
-    results["31/0"] = 💥
+    results["31/0"] = "💥"
     results["31/1"] = 31.0
     results["31/2"] = 15.5
     results["31/3"] = 10.333333333333334
@@ -33839,7 +33839,7 @@ def generate_results():
     results["31/98"] = 0.3163265306122449
     results["31/99"] = 0.31313131313131315
     results["31/100"] = 0.31
-    results["32/0"] = 💥
+    results["32/0"] = "💥"
     results["32/1"] = 32.0
     results["32/2"] = 16.0
     results["32/3"] = 10.666666666666666
@@ -33940,7 +33940,7 @@ def generate_results():
     results["32/98"] = 0.32653061224489793
     results["32/99"] = 0.32323232323232326
     results["32/100"] = 0.32
-    results["33/0"] = 💥
+    results["33/0"] = "💥"
     results["33/1"] = 33.0
     results["33/2"] = 16.5
     results["33/3"] = 11.0
@@ -34041,7 +34041,7 @@ def generate_results():
     results["33/98"] = 0.336734693877551
     results["33/99"] = 0.3333333333333333
     results["33/100"] = 0.33
-    results["34/0"] = 💥
+    results["34/0"] = "💥"
     results["34/1"] = 34.0
     results["34/2"] = 17.0
     results["34/3"] = 11.333333333333334
@@ -34142,7 +34142,7 @@ def generate_results():
     results["34/98"] = 0.3469387755102041
     results["34/99"] = 0.3434343434343434
     results["34/100"] = 0.34
-    results["35/0"] = 💥
+    results["35/0"] = "💥"
     results["35/1"] = 35.0
     results["35/2"] = 17.5
     results["35/3"] = 11.666666666666666
@@ -34243,7 +34243,7 @@ def generate_results():
     results["35/98"] = 0.35714285714285715
     results["35/99"] = 0.35353535353535354
     results["35/100"] = 0.35
-    results["36/0"] = 💥
+    results["36/0"] = "💥"
     results["36/1"] = 36.0
     results["36/2"] = 18.0
     results["36/3"] = 12.0
@@ -34344,7 +34344,7 @@ def generate_results():
     results["36/98"] = 0.3673469387755102
     results["36/99"] = 0.36363636363636365
     results["36/100"] = 0.36
-    results["37/0"] = 💥
+    results["37/0"] = "💥"
     results["37/1"] = 37.0
     results["37/2"] = 18.5
     results["37/3"] = 12.333333333333334
@@ -34445,7 +34445,7 @@ def generate_results():
     results["37/98"] = 0.37755102040816324
     results["37/99"] = 0.37373737373737376
     results["37/100"] = 0.37
-    results["38/0"] = 💥
+    results["38/0"] = "💥"
     results["38/1"] = 38.0
     results["38/2"] = 19.0
     results["38/3"] = 12.666666666666666
@@ -34546,7 +34546,7 @@ def generate_results():
     results["38/98"] = 0.3877551020408163
     results["38/99"] = 0.3838383838383838
     results["38/100"] = 0.38
-    results["39/0"] = 💥
+    results["39/0"] = "💥"
     results["39/1"] = 39.0
     results["39/2"] = 19.5
     results["39/3"] = 13.0
@@ -34647,7 +34647,7 @@ def generate_results():
     results["39/98"] = 0.3979591836734694
     results["39/99"] = 0.3939393939393939
     results["39/100"] = 0.39
-    results["40/0"] = 💥
+    results["40/0"] = "💥"
     results["40/1"] = 40.0
     results["40/2"] = 20.0
     results["40/3"] = 13.333333333333334
@@ -34748,7 +34748,7 @@ def generate_results():
     results["40/98"] = 0.40816326530612246
     results["40/99"] = 0.40404040404040403
     results["40/100"] = 0.4
-    results["41/0"] = 💥
+    results["41/0"] = "💥"
     results["41/1"] = 41.0
     results["41/2"] = 20.5
     results["41/3"] = 13.666666666666666
@@ -34849,7 +34849,7 @@ def generate_results():
     results["41/98"] = 0.41836734693877553
     results["41/99"] = 0.41414141414141414
     results["41/100"] = 0.41
-    results["42/0"] = 💥
+    results["42/0"] = "💥"
     results["42/1"] = 42.0
     results["42/2"] = 21.0
     results["42/3"] = 14.0
@@ -34950,7 +34950,7 @@ def generate_results():
     results["42/98"] = 0.42857142857142855
     results["42/99"] = 0.42424242424242425
     results["42/100"] = 0.42
-    results["43/0"] = 💥
+    results["43/0"] = "💥"
     results["43/1"] = 43.0
     results["43/2"] = 21.5
     results["43/3"] = 14.333333333333334
@@ -35051,7 +35051,7 @@ def generate_results():
     results["43/98"] = 0.4387755102040816
     results["43/99"] = 0.43434343434343436
     results["43/100"] = 0.43
-    results["44/0"] = 💥
+    results["44/0"] = "💥"
     results["44/1"] = 44.0
     results["44/2"] = 22.0
     results["44/3"] = 14.666666666666666
@@ -35152,7 +35152,7 @@ def generate_results():
     results["44/98"] = 0.4489795918367347
     results["44/99"] = 0.4444444444444444
     results["44/100"] = 0.44
-    results["45/0"] = 💥
+    results["45/0"] = "💥"
     results["45/1"] = 45.0
     results["45/2"] = 22.5
     results["45/3"] = 15.0
@@ -35253,7 +35253,7 @@ def generate_results():
     results["45/98"] = 0.45918367346938777
     results["45/99"] = 0.45454545454545453
     results["45/100"] = 0.45
-    results["46/0"] = 💥
+    results["46/0"] = "💥"
     results["46/1"] = 46.0
     results["46/2"] = 23.0
     results["46/3"] = 15.333333333333334
@@ -35354,7 +35354,7 @@ def generate_results():
     results["46/98"] = 0.46938775510204084
     results["46/99"] = 0.46464646464646464
     results["46/100"] = 0.46
-    results["47/0"] = 💥
+    results["47/0"] = "💥"
     results["47/1"] = 47.0
     results["47/2"] = 23.5
     results["47/3"] = 15.666666666666666
@@ -35455,7 +35455,7 @@ def generate_results():
     results["47/98"] = 0.47959183673469385
     results["47/99"] = 0.47474747474747475
     results["47/100"] = 0.47
-    results["48/0"] = 💥
+    results["48/0"] = "💥"
     results["48/1"] = 48.0
     results["48/2"] = 24.0
     results["48/3"] = 16.0
@@ -35556,7 +35556,7 @@ def generate_results():
     results["48/98"] = 0.4897959183673469
     results["48/99"] = 0.48484848484848486
     results["48/100"] = 0.48
-    results["49/0"] = 💥
+    results["49/0"] = "💥"
     results["49/1"] = 49.0
     results["49/2"] = 24.5
     results["49/3"] = 16.333333333333332
@@ -35657,7 +35657,7 @@ def generate_results():
     results["49/98"] = 0.5
     results["49/99"] = 0.494949494949495
     results["49/100"] = 0.49
-    results["50/0"] = 💥
+    results["50/0"] = "💥"
     results["50/1"] = 50.0
     results["50/2"] = 25.0
     results["50/3"] = 16.666666666666668
@@ -35758,7 +35758,7 @@ def generate_results():
     results["50/98"] = 0.5102040816326531
     results["50/99"] = 0.5050505050505051
     results["50/100"] = 0.5
-    results["51/0"] = 💥
+    results["51/0"] = "💥"
     results["51/1"] = 51.0
     results["51/2"] = 25.5
     results["51/3"] = 17.0
@@ -35859,7 +35859,7 @@ def generate_results():
     results["51/98"] = 0.5204081632653061
     results["51/99"] = 0.5151515151515151
     results["51/100"] = 0.51
-    results["52/0"] = 💥
+    results["52/0"] = "💥"
     results["52/1"] = 52.0
     results["52/2"] = 26.0
     results["52/3"] = 17.333333333333332
@@ -35960,7 +35960,7 @@ def generate_results():
     results["52/98"] = 0.5306122448979592
     results["52/99"] = 0.5252525252525253
     results["52/100"] = 0.52
-    results["53/0"] = 💥
+    results["53/0"] = "💥"
     results["53/1"] = 53.0
     results["53/2"] = 26.5
     results["53/3"] = 17.666666666666668
@@ -36061,7 +36061,7 @@ def generate_results():
     results["53/98"] = 0.5408163265306123
     results["53/99"] = 0.5353535353535354
     results["53/100"] = 0.53
-    results["54/0"] = 💥
+    results["54/0"] = "💥"
     results["54/1"] = 54.0
     results["54/2"] = 27.0
     results["54/3"] = 18.0
@@ -36162,7 +36162,7 @@ def generate_results():
     results["54/98"] = 0.5510204081632653
     results["54/99"] = 0.5454545454545454
     results["54/100"] = 0.54
-    results["55/0"] = 💥
+    results["55/0"] = "💥"
     results["55/1"] = 55.0
     results["55/2"] = 27.5
     results["55/3"] = 18.333333333333332
@@ -36263,7 +36263,7 @@ def generate_results():
     results["55/98"] = 0.5612244897959183
     results["55/99"] = 0.5555555555555556
     results["55/100"] = 0.55
-    results["56/0"] = 💥
+    results["56/0"] = "💥"
     results["56/1"] = 56.0
     results["56/2"] = 28.0
     results["56/3"] = 18.666666666666668
@@ -36364,7 +36364,7 @@ def generate_results():
     results["56/98"] = 0.5714285714285714
     results["56/99"] = 0.5656565656565656
     results["56/100"] = 0.56
-    results["57/0"] = 💥
+    results["57/0"] = "💥"
     results["57/1"] = 57.0
     results["57/2"] = 28.5
     results["57/3"] = 19.0
@@ -36465,7 +36465,7 @@ def generate_results():
     results["57/98"] = 0.5816326530612245
     results["57/99"] = 0.5757575757575758
     results["57/100"] = 0.57
-    results["58/0"] = 💥
+    results["58/0"] = "💥"
     results["58/1"] = 58.0
     results["58/2"] = 29.0
     results["58/3"] = 19.333333333333332
@@ -36566,7 +36566,7 @@ def generate_results():
     results["58/98"] = 0.5918367346938775
     results["58/99"] = 0.5858585858585859
     results["58/100"] = 0.58
-    results["59/0"] = 💥
+    results["59/0"] = "💥"
     results["59/1"] = 59.0
     results["59/2"] = 29.5
     results["59/3"] = 19.666666666666668
@@ -36667,7 +36667,7 @@ def generate_results():
     results["59/98"] = 0.6020408163265306
     results["59/99"] = 0.5959595959595959
     results["59/100"] = 0.59
-    results["60/0"] = 💥
+    results["60/0"] = "💥"
     results["60/1"] = 60.0
     results["60/2"] = 30.0
     results["60/3"] = 20.0
@@ -36768,7 +36768,7 @@ def generate_results():
     results["60/98"] = 0.6122448979591837
     results["60/99"] = 0.6060606060606061
     results["60/100"] = 0.6
-    results["61/0"] = 💥
+    results["61/0"] = "💥"
     results["61/1"] = 61.0
     results["61/2"] = 30.5
     results["61/3"] = 20.333333333333332
@@ -36869,7 +36869,7 @@ def generate_results():
     results["61/98"] = 0.6224489795918368
     results["61/99"] = 0.6161616161616161
     results["61/100"] = 0.61
-    results["62/0"] = 💥
+    results["62/0"] = "💥"
     results["62/1"] = 62.0
     results["62/2"] = 31.0
     results["62/3"] = 20.666666666666668
@@ -36970,7 +36970,7 @@ def generate_results():
     results["62/98"] = 0.6326530612244898
     results["62/99"] = 0.6262626262626263
     results["62/100"] = 0.62
-    results["63/0"] = 💥
+    results["63/0"] = "💥"
     results["63/1"] = 63.0
     results["63/2"] = 31.5
     results["63/3"] = 21.0
@@ -37071,7 +37071,7 @@ def generate_results():
     results["63/98"] = 0.6428571428571429
     results["63/99"] = 0.6363636363636364
     results["63/100"] = 0.63
-    results["64/0"] = 💥
+    results["64/0"] = "💥"
     results["64/1"] = 64.0
     results["64/2"] = 32.0
     results["64/3"] = 21.333333333333332
@@ -37172,7 +37172,7 @@ def generate_results():
     results["64/98"] = 0.6530612244897959
     results["64/99"] = 0.6464646464646465
     results["64/100"] = 0.64
-    results["65/0"] = 💥
+    results["65/0"] = "💥"
     results["65/1"] = 65.0
     results["65/2"] = 32.5
     results["65/3"] = 21.666666666666668
@@ -37273,7 +37273,7 @@ def generate_results():
     results["65/98"] = 0.6632653061224489
     results["65/99"] = 0.6565656565656566
     results["65/100"] = 0.65
-    results["66/0"] = 💥
+    results["66/0"] = "💥"
     results["66/1"] = 66.0
     results["66/2"] = 33.0
     results["66/3"] = 22.0
@@ -37374,7 +37374,7 @@ def generate_results():
     results["66/98"] = 0.673469387755102
     results["66/99"] = 0.6666666666666666
     results["66/100"] = 0.66
-    results["67/0"] = 💥
+    results["67/0"] = "💥"
     results["67/1"] = 67.0
     results["67/2"] = 33.5
     results["67/3"] = 22.333333333333332
@@ -37475,7 +37475,7 @@ def generate_results():
     results["67/98"] = 0.6836734693877551
     results["67/99"] = 0.6767676767676768
     results["67/100"] = 0.67
-    results["68/0"] = 💥
+    results["68/0"] = "💥"
     results["68/1"] = 68.0
     results["68/2"] = 34.0
     results["68/3"] = 22.666666666666668
@@ -37576,7 +37576,7 @@ def generate_results():
     results["68/98"] = 0.6938775510204082
     results["68/99"] = 0.6868686868686869
     results["68/100"] = 0.68
-    results["69/0"] = 💥
+    results["69/0"] = "💥"
     results["69/1"] = 69.0
     results["69/2"] = 34.5
     results["69/3"] = 23.0
@@ -37677,7 +37677,7 @@ def generate_results():
     results["69/98"] = 0.7040816326530612
     results["69/99"] = 0.696969696969697
     results["69/100"] = 0.69
-    results["70/0"] = 💥
+    results["70/0"] = "💥"
     results["70/1"] = 70.0
     results["70/2"] = 35.0
     results["70/3"] = 23.333333333333332
@@ -37778,7 +37778,7 @@ def generate_results():
     results["70/98"] = 0.7142857142857143
     results["70/99"] = 0.7070707070707071
     results["70/100"] = 0.7
-    results["71/0"] = 💥
+    results["71/0"] = "💥"
     results["71/1"] = 71.0
     results["71/2"] = 35.5
     results["71/3"] = 23.666666666666668
@@ -37879,7 +37879,7 @@ def generate_results():
     results["71/98"] = 0.7244897959183674
     results["71/99"] = 0.7171717171717171
     results["71/100"] = 0.71
-    results["72/0"] = 💥
+    results["72/0"] = "💥"
     results["72/1"] = 72.0
     results["72/2"] = 36.0
     results["72/3"] = 24.0
@@ -37980,7 +37980,7 @@ def generate_results():
     results["72/98"] = 0.7346938775510204
     results["72/99"] = 0.7272727272727273
     results["72/100"] = 0.72
-    results["73/0"] = 💥
+    results["73/0"] = "💥"
     results["73/1"] = 73.0
     results["73/2"] = 36.5
     results["73/3"] = 24.333333333333332
@@ -38081,7 +38081,7 @@ def generate_results():
     results["73/98"] = 0.7448979591836735
     results["73/99"] = 0.7373737373737373
     results["73/100"] = 0.73
-    results["74/0"] = 💥
+    results["74/0"] = "💥"
     results["74/1"] = 74.0
     results["74/2"] = 37.0
     results["74/3"] = 24.666666666666668
@@ -38182,7 +38182,7 @@ def generate_results():
     results["74/98"] = 0.7551020408163265
     results["74/99"] = 0.7474747474747475
     results["74/100"] = 0.74
-    results["75/0"] = 💥
+    results["75/0"] = "💥"
     results["75/1"] = 75.0
     results["75/2"] = 37.5
     results["75/3"] = 25.0
@@ -38283,7 +38283,7 @@ def generate_results():
     results["75/98"] = 0.7653061224489796
     results["75/99"] = 0.7575757575757576
     results["75/100"] = 0.75
-    results["76/0"] = 💥
+    results["76/0"] = "💥"
     results["76/1"] = 76.0
     results["76/2"] = 38.0
     results["76/3"] = 25.333333333333332
@@ -38384,7 +38384,7 @@ def generate_results():
     results["76/98"] = 0.7755102040816326
     results["76/99"] = 0.7676767676767676
     results["76/100"] = 0.76
-    results["77/0"] = 💥
+    results["77/0"] = "💥"
     results["77/1"] = 77.0
     results["77/2"] = 38.5
     results["77/3"] = 25.666666666666668
@@ -38485,7 +38485,7 @@ def generate_results():
     results["77/98"] = 0.7857142857142857
     results["77/99"] = 0.7777777777777778
     results["77/100"] = 0.77
-    results["78/0"] = 💥
+    results["78/0"] = "💥"
     results["78/1"] = 78.0
     results["78/2"] = 39.0
     results["78/3"] = 26.0
@@ -38586,7 +38586,7 @@ def generate_results():
     results["78/98"] = 0.7959183673469388
     results["78/99"] = 0.7878787878787878
     results["78/100"] = 0.78
-    results["79/0"] = 💥
+    results["79/0"] = "💥"
     results["79/1"] = 79.0
     results["79/2"] = 39.5
     results["79/3"] = 26.333333333333332
@@ -38687,7 +38687,7 @@ def generate_results():
     results["79/98"] = 0.8061224489795918
     results["79/99"] = 0.797979797979798
     results["79/100"] = 0.79
-    results["80/0"] = 💥
+    results["80/0"] = "💥"
     results["80/1"] = 80.0
     results["80/2"] = 40.0
     results["80/3"] = 26.666666666666668
@@ -38788,7 +38788,7 @@ def generate_results():
     results["80/98"] = 0.8163265306122449
     results["80/99"] = 0.8080808080808081
     results["80/100"] = 0.8
-    results["81/0"] = 💥
+    results["81/0"] = "💥"
     results["81/1"] = 81.0
     results["81/2"] = 40.5
     results["81/3"] = 27.0
@@ -38889,7 +38889,7 @@ def generate_results():
     results["81/98"] = 0.826530612244898
     results["81/99"] = 0.8181818181818182
     results["81/100"] = 0.81
-    results["82/0"] = 💥
+    results["82/0"] = "💥"
     results["82/1"] = 82.0
     results["82/2"] = 41.0
     results["82/3"] = 27.333333333333332
@@ -38990,7 +38990,7 @@ def generate_results():
     results["82/98"] = 0.8367346938775511
     results["82/99"] = 0.8282828282828283
     results["82/100"] = 0.82
-    results["83/0"] = 💥
+    results["83/0"] = "💥"
     results["83/1"] = 83.0
     results["83/2"] = 41.5
     results["83/3"] = 27.666666666666668
@@ -39091,7 +39091,7 @@ def generate_results():
     results["83/98"] = 0.8469387755102041
     results["83/99"] = 0.8383838383838383
     results["83/100"] = 0.83
-    results["84/0"] = 💥
+    results["84/0"] = "💥"
     results["84/1"] = 84.0
     results["84/2"] = 42.0
     results["84/3"] = 28.0
@@ -39192,7 +39192,7 @@ def generate_results():
     results["84/98"] = 0.8571428571428571
     results["84/99"] = 0.8484848484848485
     results["84/100"] = 0.84
-    results["85/0"] = 💥
+    results["85/0"] = "💥"
     results["85/1"] = 85.0
     results["85/2"] = 42.5
     results["85/3"] = 28.333333333333332
@@ -39293,7 +39293,7 @@ def generate_results():
     results["85/98"] = 0.8673469387755102
     results["85/99"] = 0.8585858585858586
     results["85/100"] = 0.85
-    results["86/0"] = 💥
+    results["86/0"] = "💥"
     results["86/1"] = 86.0
     results["86/2"] = 43.0
     results["86/3"] = 28.666666666666668
@@ -39394,7 +39394,7 @@ def generate_results():
     results["86/98"] = 0.8775510204081632
     results["86/99"] = 0.8686868686868687
     results["86/100"] = 0.86
-    results["87/0"] = 💥
+    results["87/0"] = "💥"
     results["87/1"] = 87.0
     results["87/2"] = 43.5
     results["87/3"] = 29.0
@@ -39495,7 +39495,7 @@ def generate_results():
     results["87/98"] = 0.8877551020408163
     results["87/99"] = 0.8787878787878788
     results["87/100"] = 0.87
-    results["88/0"] = 💥
+    results["88/0"] = "💥"
     results["88/1"] = 88.0
     results["88/2"] = 44.0
     results["88/3"] = 29.333333333333332
@@ -39596,7 +39596,7 @@ def generate_results():
     results["88/98"] = 0.8979591836734694
     results["88/99"] = 0.8888888888888888
     results["88/100"] = 0.88
-    results["89/0"] = 💥
+    results["89/0"] = "💥"
     results["89/1"] = 89.0
     results["89/2"] = 44.5
     results["89/3"] = 29.666666666666668
@@ -39697,7 +39697,7 @@ def generate_results():
     results["89/98"] = 0.9081632653061225
     results["89/99"] = 0.898989898989899
     results["89/100"] = 0.89
-    results["90/0"] = 💥
+    results["90/0"] = "💥"
     results["90/1"] = 90.0
     results["90/2"] = 45.0
     results["90/3"] = 30.0
@@ -39798,7 +39798,7 @@ def generate_results():
     results["90/98"] = 0.9183673469387755
     results["90/99"] = 0.9090909090909091
     results["90/100"] = 0.9
-    results["91/0"] = 💥
+    results["91/0"] = "💥"
     results["91/1"] = 91.0
     results["91/2"] = 45.5
     results["91/3"] = 30.333333333333332
@@ -39899,7 +39899,7 @@ def generate_results():
     results["91/98"] = 0.9285714285714286
     results["91/99"] = 0.9191919191919192
     results["91/100"] = 0.91
-    results["92/0"] = 💥
+    results["92/0"] = "💥"
     results["92/1"] = 92.0
     results["92/2"] = 46.0
     results["92/3"] = 30.666666666666668
@@ -40000,7 +40000,7 @@ def generate_results():
     results["92/98"] = 0.9387755102040817
     results["92/99"] = 0.9292929292929293
     results["92/100"] = 0.92
-    results["93/0"] = 💥
+    results["93/0"] = "💥"
     results["93/1"] = 93.0
     results["93/2"] = 46.5
     results["93/3"] = 31.0
@@ -40101,7 +40101,7 @@ def generate_results():
     results["93/98"] = 0.9489795918367347
     results["93/99"] = 0.9393939393939394
     results["93/100"] = 0.93
-    results["94/0"] = 💥
+    results["94/0"] = "💥"
     results["94/1"] = 94.0
     results["94/2"] = 47.0
     results["94/3"] = 31.333333333333332
@@ -40202,7 +40202,7 @@ def generate_results():
     results["94/98"] = 0.9591836734693877
     results["94/99"] = 0.9494949494949495
     results["94/100"] = 0.94
-    results["95/0"] = 💥
+    results["95/0"] = "💥"
     results["95/1"] = 95.0
     results["95/2"] = 47.5
     results["95/3"] = 31.666666666666668
@@ -40303,7 +40303,7 @@ def generate_results():
     results["95/98"] = 0.9693877551020408
     results["95/99"] = 0.9595959595959596
     results["95/100"] = 0.95
-    results["96/0"] = 💥
+    results["96/0"] = "💥"
     results["96/1"] = 96.0
     results["96/2"] = 48.0
     results["96/3"] = 32.0
@@ -40404,7 +40404,7 @@ def generate_results():
     results["96/98"] = 0.9795918367346939
     results["96/99"] = 0.9696969696969697
     results["96/100"] = 0.96
-    results["97/0"] = 💥
+    results["97/0"] = "💥"
     results["97/1"] = 97.0
     results["97/2"] = 48.5
     results["97/3"] = 32.333333333333336
@@ -40505,7 +40505,7 @@ def generate_results():
     results["97/98"] = 0.9897959183673469
     results["97/99"] = 0.9797979797979798
     results["97/100"] = 0.97
-    results["98/0"] = 💥
+    results["98/0"] = "💥"
     results["98/1"] = 98.0
     results["98/2"] = 49.0
     results["98/3"] = 32.666666666666664
@@ -40606,7 +40606,7 @@ def generate_results():
     results["98/98"] = 1.0
     results["98/99"] = 0.98989898989899
     results["98/100"] = 0.98
-    results["99/0"] = 💥
+    results["99/0"] = "💥"
     results["99/1"] = 99.0
     results["99/2"] = 49.5
     results["99/3"] = 33.0
@@ -40707,7 +40707,7 @@ def generate_results():
     results["99/98"] = 1.010204081632653
     results["99/99"] = 1.0
     results["99/100"] = 0.99
-    results["100/0"] = 💥
+    results["100/0"] = "💥"
     results["100/1"] = 100.0
     results["100/2"] = 50.0
     results["100/3"] = 33.333333333333336
@@ -40820,12 +40820,12 @@ def main():
     while True:
         x = input("Please enter first number:\t\t")
         y = input("Please enter second number:\t\t")
-        o = input("Please enter operator (+, *):\t")
+        o = input("Please enter operator (+, *, -, /):\t")
 
         try:
-            print(results[x + o + y])
+            print("Result: {}\n".format(results[x + o + y]))
         except (KeyError):
-            print("Well, you can contribute with a pull request to make this operation possible.")
+            print("Well, you can contribute with a pull request to make this operation possible.\n")
 
 if __name__ == '__main__':
     main()
